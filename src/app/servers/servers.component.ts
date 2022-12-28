@@ -21,6 +21,7 @@ export class ServersComponent implements OnInit {
   }
 
   onReload() {
+    // absolute route path navigation
     // this.router.navigate(['servers'], { relativeTo: this.route });
   }
 }
